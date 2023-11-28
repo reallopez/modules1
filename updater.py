@@ -1,7 +1,7 @@
 from requests import get
 from time import sleep
-from modules1.functions import *
-from modules1.variables import *
+from functions import *
+from variables import *
 import tkinter.messagebox
 import webbrowser
 
